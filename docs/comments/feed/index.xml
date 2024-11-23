@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Info Point Content	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/HaltonHeritageHQStaticInfoPoints/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/HaltonHeritageHQStaticInfoPoints/</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Jan 2022 11:15:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>/HaltonHeritageHQStaticInfoPoints/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 11:15:57 +0000</pubDate>

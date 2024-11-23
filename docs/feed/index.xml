@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Info Point Content</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/HaltonHeritageHQStaticInfoPoints/feed/" rel="self" type="application/rss+xml" />
+	<link>/HaltonHeritageHQStaticInfoPoints/</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Jan 2022 11:15:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/02/intro_small-150x150.png</url>
+	<url>/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2022/02/intro_small-150x150.png</url>
 	<title>Info Point Content</title>
-	<link>/</link>
+	<link>/HaltonHeritageHQStaticInfoPoints/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>/HaltonHeritageHQStaticInfoPoints/hello-world/</link>
+					<comments>/HaltonHeritageHQStaticInfoPoints/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[haltonheritagehq]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 11:15:57 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/HaltonHeritageHQStaticInfoPoints/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
